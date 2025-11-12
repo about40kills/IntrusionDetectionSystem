@@ -1,0 +1,21 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+data/
+
+# Environment variables with sensitive information
+.env
+
+# Additional Python files
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
