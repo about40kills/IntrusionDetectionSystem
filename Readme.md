@@ -22,7 +22,7 @@ An intelligent security monitoring system using YOLOv8 computer vision with real
 1. **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/about40kills/IntrusionDetectionSystem
 cd IntrusionDetectionSystem
 ```
 
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 4. **Configure notifications (optional)**
 
 ```bash
-cp .env.example .env
+cp  .env
 # Edit .env with your Telegram/Email credentials
 ```
 
