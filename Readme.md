@@ -143,10 +143,9 @@ IntrusionDetectionSystem/
 ├── coco.yaml              # COCO dataset class names
 ├── yolov8n.pt             # YOLOv8 nano model weights
 ├── requirements.txt       # Python dependencies
-├── .env.example           # Environment variables template
 ├── .env                   # Environment variables (not tracked)
 ├── .gitignore            # Git ignore rules
-└── SETUP.md              # This setup guide
+└── Readme.md              # This readme guide
 ```
 
 ## Troubleshooting
